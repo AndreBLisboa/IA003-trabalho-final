@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# raw INEP microdata (550 MB): download it, see README
+*.zip
