@@ -200,7 +200,7 @@ st.markdown(f"""
   em qualquer sorteio; nas outras, a decisão depende da sorte da amostra.
 - **Tamanho da amostra:** n = {n} foi dimensionado para estimar proporções com margem de 5 pontos, não para detectar
   diferenças de 1 ponto percentual ou de 10 pontos na Redação. Não rejeitar H₀ não prova que H₀ é verdadeira.
-- **Duas hipóteses unilaterais:** P1, M1 e M2 testam uma direção definida antes de ver os dados; um IC bilateral de
+- **Três hipóteses unilaterais:** P1, M1 e M2 testam uma direção definida antes de ver os dados; um IC bilateral de
   95% e um teste unilateral a 5% podem discordar quando o valor-p fica entre 0,025 e 0,05.
 - **Subgrupos encolhem a amostra:** M1 usa só os sorteados sem computador **e** presentes, bem menos que {n},
   o que alarga o intervalo.
